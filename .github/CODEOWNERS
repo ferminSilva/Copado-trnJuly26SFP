@@ -2,10 +2,10 @@
 * @ferminSilva
 
 # Apex
-force-app/main/default/classes/* @ferminSilva
+# force-app/main/default/classes/* @ferminSilva
 
 # Flows
-force-app/main/default/flows/* @ferminSilva
+# force-app/main/default/flows/* @ferminSilva
 
 # Profiles
-force-app/main/default/profiles/* @ferminSilva
+# force-app/main/default/profiles/* @ferminSilva
